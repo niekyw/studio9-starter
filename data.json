@@ -1,26 +1,51 @@
 [
 	{
-		"datetime": "2023-04-20T01:26:56",
-		"text": "400",
-		"number": "4.5",
-		"notes": "from Teado"
+		"datetime": "2023-04-20T02:46:57",
+		"food": "🧋",
+		"calories": "310",
+		"number": "5.5",
+		"notes": "get 50% sugar next time if going to Happy Lemon"
 	},
 	{
-		"datetime": "2023-04-11T19:00:02",
-		"text": "750",
+		"datetime": "2023-04-20T02:46:57",
+		"food": "greek salad",
+		"calories": "620",
+		"number": "14.98",
+		"notes": "Cava"
+	},
+	{
+		"datetime": "2023-04-20T02:46:57",
+		"food": "🍣",
+		"calories": "800",
+		"number": "21.9",
+		"notes": "lunch w/ nicole"
+	},
+	{
+		"datetime": "2023-04-20T01:26:09",
+		"food": "carrots w/ hummus",
+		"calories": "100",
 		"number": "0",
-		"notes": "leftovers"
+		"notes": "garden snack"
 	},
 	{
 		"datetime": "2023-04-10T10:00",
-		"text": "400",
+		"food": "fries",
+		"calories": "300",
 		"number": "1",
 		"notes": "mcdonalds"
 	},
 	{
-		"datetime": "2023-04-20T01:26:09",
-		"text": "100",
+		"datetime": "2023-04-11T19:00:02",
+		"food": "chicken curry",
+		"calories": "650",
 		"number": "0",
-		"notes": "snack"
+		"notes": "leftovers"
+	},
+	{
+		"datetime": "2023-04-20T01:26:56",
+		"food": "kani onigiri",
+		"calories": "400",
+		"number": "4.5",
+		"notes": "from Teado"
 	}
 ]
